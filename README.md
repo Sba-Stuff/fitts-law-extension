@@ -1,3 +1,4 @@
+<center><img src="https://github.com/Sba-Stuff/fitts-law-extension/blob/master/tutorial.JPG"></center>
 # fitts-law-extension
 Fitts Law Google Chrome Extension To Calculate Index of Difficulty.
 1. Fitts law extension to calculate index of difficulty.
